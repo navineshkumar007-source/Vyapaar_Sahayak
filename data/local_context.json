@@ -1,0 +1,65 @@
+[
+  {
+    "state": "Any",
+    "season": "Summer",
+    "business_type": "Any",
+    "insight": "Cold drinks, ice, buttermilk, and dairy-based beverages often see increased local demand during the summer months.",
+    "confidence": "Prototype pattern"
+  },
+  {
+    "state": "Any",
+    "season": "Monsoon",
+    "business_type": "Any",
+    "insight": "Umbrellas, raincoats, hot beverages, and packaged snacks can see a local demand bump during the monsoon season.",
+    "confidence": "Prototype pattern"
+  },
+  {
+    "state": "Any",
+    "season": "Winter",
+    "business_type": "Any",
+    "insight": "Warm clothing accessories, hot snacks, and dry-fruit or ghee-based products may see increased demand in winter.",
+    "confidence": "Prototype pattern"
+  },
+  {
+    "state": "Any",
+    "season": "Festival",
+    "business_type": "Kirana Store",
+    "insight": "Sweets, dry fruits, ghee, and gifting-sized packaged goods typically see a local sales rise during festival weeks.",
+    "confidence": "Prototype pattern"
+  },
+  {
+    "state": "Any",
+    "season": "Festival",
+    "business_type": "Tailoring",
+    "insight": "Festival season often brings a short-term rise in new clothing and alteration orders in the weeks before the festival.",
+    "confidence": "Prototype pattern"
+  },
+  {
+    "state": "Punjab",
+    "season": "Harvest",
+    "business_type": "Any",
+    "insight": "Cash flow among farming households in Punjab can improve shortly after the wheat/paddy harvest and mandi sales, which may lift local retail demand.",
+    "confidence": "Prototype pattern"
+  },
+  {
+    "state": "Punjab",
+    "season": "Any",
+    "business_type": "Dairy Business",
+    "insight": "Punjab has a strong dairy consumption base; bundling milk with related staples (tea, sugar, ghee) can support basket size.",
+    "confidence": "Prototype pattern"
+  },
+  {
+    "state": "Any",
+    "season": "Any",
+    "business_type": "Street Vendor",
+    "insight": "Foot-traffic-dependent businesses often benefit from tracking local weekly market days, festivals, and school/college schedules that change footfall.",
+    "confidence": "Prototype pattern"
+  },
+  {
+    "state": "Any",
+    "season": "Any",
+    "business_type": "Food Stall",
+    "insight": "Local events, weddings, and school/college reopening dates can create short predictable demand spikes worth preparing stock for in advance.",
+    "confidence": "Prototype pattern"
+  }
+]

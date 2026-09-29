@@ -1,0 +1,153 @@
+{
+  "Punjab": {
+    "crop_cycles": [
+      {"months": [4,5,6], "signal": "Wheat harvest and mandi activity", "implication": "Farm-linked local cash flow may change after harvest; retailers can prepare fast-moving essentials and service capacity."},
+      {"months": [6,7,8], "signal": "Paddy sowing / monsoon activity", "implication": "Monsoon and sowing activity can shift local footfall and demand; weather-sensitive stock should be reviewed."},
+      {"months": [10,11], "signal": "Paddy harvest / post-harvest activity", "implication": "Post-harvest local spending patterns can change; monitor demand before making a large stock purchase."}
+    ],
+    "festivals": [
+      {"months": [4], "signal": "Baisakhi", "business_types": ["Kirana Store", "Food Stall", "Tailoring", "Street Vendor"], "implication": "Harvest-festival demand for festive food items and new clothing typically rises around Baisakhi."},
+      {"months": [9,10,11], "signal": "Autumn festival and wedding season window", "business_types": ["Tailoring", "Other"], "implication": "Prepare stitching capacity, alteration slots and popular fabrics; consider taking advance orders."},
+      {"months": [10,11], "signal": "Diwali festive shopping period", "business_types": ["Kirana Store", "Food Stall", "Street Vendor"], "implication": "Review fast-moving festive items and avoid last-minute stock-outs."}
+    ],
+    "consumer_trends": [
+      {"signal": "Weekly markets, weddings and local events can change short-term footfall", "business_types": ["Tailoring", "Street Vendor", "Food Stall"], "implication": "Track nearby event dates and prepare stock or service capacity before expected footfall changes."}
+    ]
+  },
+  "Haryana": {
+    "crop_cycles": [
+      {"months": [4,5], "signal": "Wheat harvest and mandi activity", "implication": "Farm-linked cash flow rises after harvest; consider stocking fast-moving essentials."},
+      {"months": [10,11], "signal": "Paddy harvest", "implication": "Post-harvest spending can pick up in nearby markets; monitor demand before a large stock purchase."}
+    ],
+    "festivals": [
+      {"months": [8], "signal": "Teej", "business_types": ["Tailoring", "Other"], "implication": "Demand for traditional clothing and accessories often rises around Teej."},
+      {"months": [10,11], "signal": "Diwali festive shopping period", "business_types": ["Kirana Store", "Food Stall", "Street Vendor"], "implication": "Festive item demand rises; plan stock to avoid last-minute shortages."}
+    ],
+    "consumer_trends": [
+      {"signal": "Proximity to Delhi-NCR can increase weekend and event-driven footfall in border towns", "business_types": ["Food Stall", "Street Vendor", "Kirana Store"], "implication": "Track local events and weekends for short-term demand changes."}
+    ]
+  },
+  "Uttar Pradesh": {
+    "crop_cycles": [
+      {"months": [12,1,2,3], "signal": "Sugarcane harvest and crushing season", "implication": "Cash flow in sugarcane-belt districts often rises during crushing season; monitor local demand before large purchases."},
+      {"months": [4,5], "signal": "Wheat harvest", "implication": "Post-harvest spending can shift local footfall; review fast-moving essentials."}
+    ],
+    "festivals": [
+      {"months": [3], "signal": "Holi", "business_types": ["Kirana Store", "Food Stall", "Street Vendor"], "implication": "Demand for colours, sweets and festive food typically rises in the days before Holi."},
+      {"months": [10,11], "signal": "Diwali and Chhath Puja window", "business_types": ["Kirana Store", "Food Stall", "Tailoring", "Street Vendor"], "implication": "A concentrated festive period (Diwali, then Chhath Puja in eastern UP) drives food, clothing and puja-item demand."}
+    ],
+    "consumer_trends": [
+      {"signal": "Wedding season (Nov-Feb) is a major driver of local clothing and catering demand", "business_types": ["Tailoring", "Food Stall"], "implication": "Reserve capacity and promote advance booking ahead of the wedding season peak."}
+    ]
+  },
+  "Rajasthan": {
+    "crop_cycles": [
+      {"months": [3,4], "signal": "Rabi (wheat/mustard) harvest", "implication": "Post-harvest cash flow may rise in agricultural towns; review demand before a large stock purchase."}
+    ],
+    "festivals": [
+      {"months": [3,4], "signal": "Gangaur", "business_types": ["Tailoring", "Kirana Store"], "implication": "Traditional clothing and festive-item demand often rises around Gangaur."},
+      {"months": [10,11], "signal": "Diwali and wedding season window", "business_types": ["Tailoring", "Kirana Store", "Food Stall"], "implication": "Rajasthan's wedding season is prominent through winter; expect elevated clothing and catering demand."}
+    ],
+    "consumer_trends": [
+      {"signal": "Tourist and pilgrimage footfall varies seasonally in many Rajasthan towns", "business_types": ["Food Stall", "Street Vendor", "Kirana Store"], "implication": "Track local tourist-season patterns when planning stock for footfall-dependent items."}
+    ]
+  },
+  "Bihar": {
+    "crop_cycles": [
+      {"months": [10,11], "signal": "Paddy harvest", "implication": "Post-harvest cash flow can rise in rural markets; monitor demand before large purchases."},
+      {"months": [3,4], "signal": "Wheat harvest", "implication": "Local spending patterns often shift after the rabi harvest."}
+    ],
+    "festivals": [
+      {"months": [10,11], "signal": "Chhath Puja", "business_types": ["Kirana Store", "Food Stall", "Street Vendor"], "implication": "Chhath Puja drives strong demand for specific fruits, puja items and festive food in the days before the festival."},
+      {"months": [3], "signal": "Holi", "business_types": ["Kirana Store", "Food Stall"], "implication": "Demand for colours, sweets and festive food rises before Holi."}
+    ],
+    "consumer_trends": [
+      {"signal": "Migrant workers often return home around major festivals, temporarily raising local demand", "business_types": ["Kirana Store", "Food Stall", "Tailoring"], "implication": "Expect a short-term local demand spike in the run-up to major festivals."}
+    ]
+  },
+  "Madhya Pradesh": {
+    "crop_cycles": [
+      {"months": [10,11], "signal": "Soybean and kharif harvest", "implication": "Farm-linked cash flow often rises after the kharif harvest; review demand before large purchases."},
+      {"months": [3,4], "signal": "Wheat harvest", "implication": "Post-harvest local spending can shift; monitor before restocking heavily."}
+    ],
+    "festivals": [
+      {"months": [9,10], "signal": "Navratri", "business_types": ["Tailoring", "Kirana Store"], "implication": "Traditional clothing and festive-item demand typically rises through Navratri."},
+      {"months": [10,11], "signal": "Diwali festive shopping period", "business_types": ["Kirana Store", "Food Stall", "Street Vendor"], "implication": "Review fast-moving festive items and avoid last-minute stock-outs."}
+    ],
+    "consumer_trends": [
+      {"signal": "Weekly haats (rural markets) remain a major driver of footfall in smaller MP towns", "business_types": ["Street Vendor", "Kirana Store"], "implication": "Align stock availability with the local weekly market day."}
+    ]
+  },
+  "Gujarat": {
+    "crop_cycles": [
+      {"months": [10,11,12], "signal": "Cotton and groundnut harvest", "implication": "Farm-linked cash flow often rises after harvest in cotton/groundnut belts; monitor local demand."}
+    ],
+    "festivals": [
+      {"months": [9,10], "signal": "Navratri / Garba season", "business_types": ["Tailoring", "Kirana Store", "Food Stall"], "implication": "One of Gujarat's biggest demand windows for traditional clothing, accessories and festive food — plan capacity well in advance."},
+      {"months": [1], "signal": "Uttarayan (kite festival)", "business_types": ["Street Vendor", "Kirana Store"], "implication": "Local demand for kites, string and festive snacks rises sharply around Uttarayan."}
+    ],
+    "consumer_trends": [
+      {"signal": "Strong local entrepreneurial and trading culture drives frequent small-batch purchasing", "business_types": ["Kirana Store", "Other"], "implication": "Smaller, more frequent restocking may suit demand patterns better than large bulk orders."}
+    ]
+  },
+  "Maharashtra": {
+    "crop_cycles": [
+      {"months": [10,11,12], "signal": "Sugarcane and kharif harvest", "implication": "Farm-linked cash flow often rises after harvest; review local demand before large purchases."}
+    ],
+    "festivals": [
+      {"months": [8,9], "signal": "Ganesh Chaturthi", "business_types": ["Kirana Store", "Food Stall", "Street Vendor", "Tailoring"], "implication": "One of Maharashtra's largest festive-demand windows for food, decoration items and new clothing."},
+      {"months": [10,11], "signal": "Diwali festive shopping period", "business_types": ["Kirana Store", "Food Stall", "Street Vendor"], "implication": "Review fast-moving festive items and avoid last-minute stock-outs."}
+    ],
+    "consumer_trends": [
+      {"signal": "Urban and semi-urban areas see steady weekend footfall near markets and local trains", "business_types": ["Street Vendor", "Food Stall"], "implication": "Weekend-heavy stocking and staffing may better match footfall patterns."}
+    ]
+  },
+  "Karnataka": {
+    "crop_cycles": [
+      {"months": [10,11], "signal": "Kharif harvest (including areca/coffee regions)", "implication": "Farm-linked cash flow often rises after harvest in agricultural districts; monitor demand before large purchases."}
+    ],
+    "festivals": [
+      {"months": [3,4], "signal": "Ugadi", "business_types": ["Kirana Store", "Tailoring"], "implication": "Festive food and new-clothing demand typically rises around Ugadi (Kannada New Year)."},
+      {"months": [9,10], "signal": "Mysuru Dasara / Navratri season", "business_types": ["Tailoring", "Kirana Store", "Food Stall"], "implication": "A major festive window for clothing, decoration and festive food across the state."}
+    ],
+    "consumer_trends": [
+      {"signal": "IT-hub cities see steady weekday footfall while smaller towns are more weekend/event-driven", "business_types": ["Food Stall", "Street Vendor"], "implication": "Match staffing and stock timing to the local footfall rhythm rather than a generic weekly pattern."}
+    ]
+  },
+  "Tamil Nadu": {
+    "crop_cycles": [
+      {"months": [12,1], "signal": "Paddy harvest aligned with Pongal", "implication": "Harvest and festival demand overlap closely; local cash flow and footfall often rise together in this window."}
+    ],
+    "festivals": [
+      {"months": [1], "signal": "Pongal", "business_types": ["Kirana Store", "Food Stall", "Tailoring", "Street Vendor"], "implication": "Tamil Nadu's biggest harvest festival — strong demand for festive food, sugarcane, new clothing and household items."},
+      {"months": [10,11], "signal": "Deepavali festive shopping period", "business_types": ["Kirana Store", "Food Stall", "Tailoring"], "implication": "Review fast-moving festive items, sweets and new clothing demand ahead of Deepavali."}
+    ],
+    "consumer_trends": [
+      {"signal": "Temple-town footfall varies with the local temple festival calendar", "business_types": ["Food Stall", "Street Vendor", "Kirana Store"], "implication": "Track the nearest temple's festival dates for short-term footfall changes."}
+    ]
+  },
+  "West Bengal": {
+    "crop_cycles": [
+      {"months": [11,12], "signal": "Aman paddy harvest", "implication": "Post-harvest cash flow can rise in rural markets; monitor demand before large purchases."}
+    ],
+    "festivals": [
+      {"months": [9,10], "signal": "Durga Puja", "business_types": ["Tailoring", "Kirana Store", "Food Stall", "Street Vendor"], "implication": "West Bengal's largest demand window by far — new clothing, festive food and gift purchases surge in the weeks before Durga Puja."},
+      {"months": [4], "signal": "Poila Boishakh (Bengali New Year)", "business_types": ["Kirana Store", "Tailoring"], "implication": "New-clothing and festive-shopping demand rises around Poila Boishakh, especially for new business ledgers and clothing."}
+    ],
+    "consumer_trends": [
+      {"signal": "Para (neighbourhood) markets remain the primary shopping pattern in many Bengal towns", "business_types": ["Kirana Store", "Street Vendor"], "implication": "Local neighbourhood loyalty matters more than city-wide trends for day-to-day stock planning."}
+    ]
+  },
+  "Default": {
+    "crop_cycles": [
+      {"months": [6,7,8,9], "signal": "Monsoon season", "implication": "Monsoon can affect footfall and weather-sensitive stock; review delivery and stock plans."}
+    ],
+    "festivals": [
+      {"months": [10,11], "signal": "Diwali festive shopping period", "business_types": ["Kirana Store", "Food Stall", "Street Vendor", "Tailoring"], "implication": "Diwali is a near-nationwide demand window for festive items, food and new clothing; review fast-moving stock ahead of it."},
+      {"months": [11,12,1,2], "signal": "Wedding season window", "business_types": ["Tailoring", "Food Stall"], "implication": "Many regions see a wedding-season demand peak through winter; consider advance booking and reserved capacity."}
+    ],
+    "consumer_trends": [
+      {"signal": "Local weekly markets and events can change short-term footfall in most towns", "business_types": ["Street Vendor", "Food Stall", "Kirana Store", "Tailoring"], "implication": "Track nearby event dates and prepare stock or service capacity before expected footfall changes."}
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "scheme_name": "Pradhan Mantri MUDRA Yojana (PMMY)",
+    "category": "Credit",
+    "target_business_type": ["Kirana Store", "Dairy Business", "Food Stall", "Tailoring", "Repair Shop", "Other"],
+    "target_location": "All India",
+    "description": "A government credit scheme that channels collateral-free micro-loans (Shishu, Kishore, Tarun categories) through banks and NBFCs for small and micro business needs such as working capital or equipment.",
+    "why_relevant": "Micro-enterprise credit can be relevant for working capital, equipment, or business expansion needs.",
+    "eligibility_note": "Eligibility, loan category (Shishu/Kishore/Tarun), lender terms and current limits must be verified with a participating bank or NBFC.",
+    "official_url": "https://www.mudra.org.in/",
+    "last_verified": "2025-01"
+  },
+  {
+    "scheme_name": "Udyam Registration",
+    "category": "Formalisation",
+    "target_business_type": ["Kirana Store", "Dairy Business", "Food Stall", "Tailoring", "Repair Shop", "Street Vendor", "Other"],
+    "target_location": "All India",
+    "description": "The official government registration for Micro, Small and Medium Enterprises (MSMEs), based on self-declared investment and turnover figures.",
+    "why_relevant": "Formal MSME registration can help a qualifying micro enterprise access priority-sector credit, government tenders, and other MSME benefits.",
+    "eligibility_note": "Check whether your enterprise qualifies under current MSME investment/turnover limits and complete registration through the official portal using Aadhaar and PAN.",
+    "official_url": "https://udyamregistration.gov.in/",
+    "last_verified": "2025-01"
+  },
+  {
+    "scheme_name": "PM SVANidhi",
+    "category": "Street Vendors",
+    "target_business_type": ["Street Vendor"],
+    "target_location": "Urban and semi-urban local bodies",
+    "description": "A micro-credit facility for street vendors, offering small working-capital loans with incentives for timely repayment and digital transactions.",
+    "why_relevant": "Relevant if the business is a street-vending activity rather than a fixed retail shop.",
+    "eligibility_note": "Vendor certificate/ID from the local urban local body and current lending conditions apply.",
+    "official_url": "https://pmsvanidhi.mohua.gov.in/",
+    "last_verified": "2025-01"
+  },
+  {
+    "scheme_name": "MSME TEAM Initiative (RAMP)",
+    "category": "Digital Commerce",
+    "target_business_type": ["Kirana Store", "Dairy Business", "Food Stall", "Tailoring", "Repair Shop", "Other"],
+    "target_location": "All India",
+    "description": "A digital market-access and enablement initiative under the MSME RAMP programme to help small enterprises connect with e-commerce and digital B2B/B2C channels.",
+    "why_relevant": "Can be relevant to eligible micro and small enterprises seeking digital commerce or market-access support.",
+    "eligibility_note": "Check current participation rules, onboarding route and availability, which may vary by state and sector.",
+    "official_url": "https://ramp.msme.gov.in/",
+    "last_verified": "2025-01"
+  },
+  {
+    "scheme_name": "Prime Minister's Employment Generation Programme (PMEGP)",
+    "category": "Credit",
+    "target_business_type": ["Kirana Store", "Dairy Business", "Food Stall", "Tailoring", "Repair Shop", "Other"],
+    "target_location": "All India, with a rural/urban project split",
+    "description": "A credit-linked subsidy scheme administered by KVIC to help set up new micro-enterprises, combining a bank loan with a government subsidy component.",
+    "why_relevant": "Can be relevant for a new project or a significant expansion of an existing micro-enterprise, particularly in rural and semi-urban areas.",
+    "eligibility_note": "Applies mainly to new units meeting project-cost and promoter-eligibility conditions; existing, already-running businesses should check applicability carefully.",
+    "official_url": "https://www.kviconline.gov.in/pmegpeportal/",
+    "last_verified": "2025-01"
+  },
+  {
+    "scheme_name": "Stand-Up India",
+    "category": "Women Entrepreneurship",
+    "target_business_type": ["Kirana Store", "Dairy Business", "Food Stall", "Tailoring", "Repair Shop", "Other"],
+    "target_location": "All India",
+    "description": "A bank-loan facility encouraging greenfield enterprises by women and SC/ST entrepreneurs, with loans typically between ₹10 lakh and ₹1 crore.",
+    "why_relevant": "Potentially relevant for a woman entrepreneur or SC/ST entrepreneur planning a new greenfield business or a significant new unit.",
+    "eligibility_note": "Loan sizes are larger than typical micro-enterprise needs; check whether the business qualifies as a greenfield project under current guidelines.",
+    "official_url": "https://www.standupmitra.in/",
+    "last_verified": "2025-01"
+  },
+  {
+    "scheme_name": "Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE)",
+    "category": "Credit",
+    "target_business_type": ["Kirana Store", "Dairy Business", "Food Stall", "Tailoring", "Repair Shop", "Other"],
+    "target_location": "All India",
+    "description": "A credit-guarantee mechanism that allows banks and NBFCs to extend collateral-free loans to eligible micro and small enterprises.",
+    "why_relevant": "May help a business access a collateral-free loan through a participating lender, reducing the need for security/collateral.",
+    "eligibility_note": "The guarantee is availed by the lending bank, not applied for directly by the business; ask your bank whether a proposed loan can be covered under CGTMSE.",
+    "official_url": "https://www.cgtmse.in/",
+    "last_verified": "2025-01"
+  }
+]

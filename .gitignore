@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Secrets - never commit your API key
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Local database (generated at runtime)
+vyapaar_sahayak.db
+
+# OS/editor junk
+.DS_Store
+.vscode/
+*.log
